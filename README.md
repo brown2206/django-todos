@@ -1,2 +1,0 @@
-# django-todos
-# django-todos
